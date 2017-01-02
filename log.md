@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+
+
+Examples:
+------
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
