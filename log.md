@@ -18,3 +18,11 @@
 **Today's Progress**: I've created the change quote button by setting state in React. I've added some styles as well. I had a problem with Github - it didn't count my commits as contributions. It turned out that I didn't set my Github user email as global user email. I've fixed it.
 
 **Thoughts:** It was fun figuring out how to change quote. Also, I learnt about contibutions on Github.
+
+
+
+### Day 3: January 4, 2017 
+
+**Today's Progress**: I've added Twitter share button. It works, but it doesn't show the quote yet, only some example text. Also, I've added a checklist to readme file.
+
+**Thoughts:** I thought that it was way more simple to add Twitter share button to the page. It took me almost 2 hours! I managed to add Twitter script to my index.html and the share button works properly, but it doesn't show the quote yet. I'll fix it tomorrow.
