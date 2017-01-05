@@ -26,3 +26,9 @@
 **Today's Progress**: I've added Twitter share button. It works, but it doesn't show the quote yet, only some example text. Also, I've added a checklist to readme file.
 
 **Thoughts:** I thought that it was way more simple to add Twitter share button to the page. It took me almost 2 hours! I managed to add Twitter script to my index.html and the share button works properly, but it doesn't show the quote yet. I'll fix it tomorrow.
+
+### Day 4: January 5, 2017 
+
+**Today's Progress**: I've styled buttons. I've been testing twitter sharing but it does not work yet.
+
+**Thoughts:** It's very difficult to set up Twitter share button.
