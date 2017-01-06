@@ -27,8 +27,20 @@
 
 **Thoughts:** I thought that it was way more simple to add Twitter share button to the page. It took me almost 2 hours! I managed to add Twitter script to my index.html and the share button works properly, but it doesn't show the quote yet. I'll fix it tomorrow.
 
+
+
 ### Day 4: January 5, 2017 
 
 **Today's Progress**: I've styled buttons. I've been testing twitter sharing but it does not work yet.
 
 **Thoughts:** It's very difficult to set up Twitter share button.
+
+
+
+### Day 5: January 6, 2017 
+
+**Today's Progress**: I've set up the app configuraton to deploy it on Github Pages.
+
+**Thoughts:** I've tried to set up twitter sharing button properly but it won't work. I am frustrated. But the app it;s deployed on Github Pages which is nice.
+
+**Link to work:** [https://izabelka.github.io/random-quote-machine/](https://izabelka.github.io/random-quote-machine/)
