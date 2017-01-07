@@ -39,8 +39,16 @@
 
 ### Day 5: January 6, 2017 
 
-**Today's Progress**: I've set up the app configuraton to deploy it on Github Pages.
+**Today's Progress**: I've set up the app configuration to deploy it on Github Pages.
 
-**Thoughts:** I've tried to set up twitter sharing button properly but it won't work. I am frustrated. But the app it;s deployed on Github Pages which is nice.
+**Thoughts:** I've tried to set up twitter sharing button properly but it won't work. I am frustrated. But the app it's deployed on Github Pages which is nice.
 
 **Link to work:** [https://izabelka.github.io/random-quote-machine/](https://izabelka.github.io/random-quote-machine/)
+
+
+
+### Day 6: January 7, 2017 
+
+**Today's Progress**: I've decided to improve an app I built a while ago. I've started rewriting it to React.js. I've created new component that displays what it should display.
+
+**Thoughts:** I've seen what my javaScript skills were when I first coded this app. They were terrible. Now I am trying to improve this app using React.js
