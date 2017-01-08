@@ -52,3 +52,11 @@
 **Today's Progress**: I've decided to improve an app I built a while ago. I've started rewriting it to React.js. I've created new component that displays what it should display.
 
 **Thoughts:** I've seen what my javaScript skills were when I first coded this app. They were terrible. Now I am trying to improve this app using React.js
+
+
+
+### Day 7: January 8, 2017 
+
+**Today's Progress**: I've created new component for displaying selected station and its logo. I've change existing components to displaying selected station properly.
+
+**Thoughts:** A lot of good code today! I managed to send data through different components and it was pretty easy for me. I think I understand React more!
