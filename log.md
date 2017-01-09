@@ -60,3 +60,11 @@
 **Today's Progress**: I've created new component for displaying selected station and its logo. I've change existing components to displaying selected station properly.
 
 **Thoughts:** A lot of good code today! I managed to send data through different components and it was pretty easy for me. I think I understand React more!
+
+
+
+### Day 7: January 8, 2017 
+
+**Today's Progress**: I've only managed to toggle radio stations - expand and hide it on click. I'm not feeling well today.
+
+**Thoughts:** I haven't done much. I'll be better tomorrow.
