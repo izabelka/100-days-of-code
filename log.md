@@ -63,8 +63,16 @@
 
 
 
-### Day 7: January 8, 2017 
+### Day 7: January 9, 2017 
 
 **Today's Progress**: I've only managed to toggle radio stations - expand and hide it on click. I'm not feeling well today.
 
 **Thoughts:** I haven't done much. I'll be better tomorrow.
+
+
+
+### Day 9: January 10, 2017 
+
+**Today's Progress**: I've only done some code refactoring.
+
+**Thoughts:** I have been thinking a lot about passing props form children to parent to change station url and how to toggle station while other stations hide. I've read a lot but finally I haven't figure it out. I'll try tomorrow.
