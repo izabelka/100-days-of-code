@@ -76,3 +76,13 @@
 **Today's Progress**: I've only done some code refactoring.
 
 **Thoughts:** I have been thinking a lot about passing props form children to parent to change station url and how to toggle station while other stations hide. I've read a lot but finally I haven't figure it out. I'll try tomorrow.
+
+
+
+### Day 10: January 11, 2017 
+
+**Today's Progress**: I've figured out how to pass props from childrem to parent and I've passed selected station's url and name. I've deployed app to github pages.
+
+**Thoughts:** I've managed to finish what I've been struggling with for two days. I've learnt about binding `this` and it's very neccessary to understand whole React.js and javaScript in general.
+
+**Link to work:** [https://izabelka.github.io/radio-app/](https://izabelka.github.io/radio-app/)
