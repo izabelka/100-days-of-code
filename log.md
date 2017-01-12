@@ -86,3 +86,11 @@
 **Thoughts:** I've managed to finish what I've been struggling with for two days. I've learnt about binding `this` and it's very neccessary to understand whole React.js and javaScript in general.
 
 **Link to work:** [https://izabelka.github.io/radio-app/](https://izabelka.github.io/radio-app/)
+
+
+
+### Day 11: January 12, 2017 
+
+**Today's Progress**: I've worked on Random Quote Machine today. I've added quote to share in state, it works but it won't apped to twitter share button. I guess it rendes through its own script, one is able to share quote, but only first one.
+
+**Thoughts:** I didn't want to start any new app, I worked on Random Quote Machine. Once again, twitter button share is a disaster!
