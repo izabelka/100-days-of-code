@@ -94,3 +94,14 @@
 **Today's Progress**: I've worked on Random Quote Machine today. I've added quote to share in state, it works but it won't apped to twitter share button. I guess it rendes through its own script, one is able to share quote, but only first one.
 
 **Thoughts:** I didn't want to start any new app, I worked on Random Quote Machine. Once again, twitter button share is a disaster!
+
+
+
+### Day 12: January 14, 2017 
+
+**Today's Progress**: I've started another app. I've managed to add API for user's locationd and another API for local weather.
+
+**Thoughts:** I've finally learned how to call an API! I'm almost done, I need to style the page and convert the temperature.
+
+
+**Link to source:**  [Local Weather App on freeCodeCamp](https://www.freecodecamp.com/challenges/show-the-local-weather)
