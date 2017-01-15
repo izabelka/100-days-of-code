@@ -105,3 +105,11 @@
 
 
 **Link to source:**  [Local Weather App on freeCodeCamp](https://www.freecodecamp.com/challenges/show-the-local-weather)
+
+
+
+### Day 13: January 15, 2017 
+
+**Today's Progress**: I've noticed that loaded weather was wrong. The latitude and longitude is not passed to the second api call. I couldn't figure out how to fix it.
+
+**Thoughts:** I've never really worked wit API. It's very interesting but not so easy.
