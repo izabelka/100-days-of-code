@@ -121,3 +121,11 @@
 **Today's Progress**: I've come to a temporary solution: to set timeout for the second api call. It's not the best idea but it;s working for now. I've made a function to convert the temperature.
 
 **Thoughts:** Again, API calls are not that easy as I thought. I've been enjoying coding today!
+
+
+
+### Day 15: January 17, 2017 
+
+**Today's Progress**: I've tried to add weather icons. But it didn't work. I change styles directory.
+
+**Thoughts:** Using someone else's files it's not that easy!
