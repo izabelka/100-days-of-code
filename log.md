@@ -129,3 +129,11 @@
 **Today's Progress**: I've tried to add weather icons. But it didn't work. I change styles directory.
 
 **Thoughts:** Using someone else's files it's not that easy!
+
+
+
+### Day 16: January 18, 2017 
+
+**Today's Progress**: I've finally added weather icons! And they change dynamically according to the current weather. I've added background pictures as well, in the json file.
+
+**Thoughts:** I have been struggling with these icons and json file. But I feel like I've learnt a lot and that's good!
