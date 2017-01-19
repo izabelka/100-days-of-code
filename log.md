@@ -137,3 +137,11 @@
 **Today's Progress**: I've finally added weather icons! And they change dynamically according to the current weather. I've added background pictures as well, in the json file.
 
 **Thoughts:** I have been struggling with these icons and json file. But I feel like I've learnt a lot and that's good!
+
+
+
+### Day 17: January 19, 2017 
+
+**Today's Progress**: I've added background images as dropbox urls, beacuse of complicated (for me) Webpack require rules. I've deployed my app to github pages. It turns out it doesn't work because of insecure links. I'll fix it tomorrow.
+
+**Thoughts:** I've learnt new things about Webpack and secure connections.
