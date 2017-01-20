@@ -145,3 +145,11 @@
 **Today's Progress**: I've added background images as dropbox urls, beacuse of complicated (for me) Webpack require rules. I've deployed my app to github pages. It turns out it doesn't work because of insecure links. I'll fix it tomorrow.
 
 **Thoughts:** I've learnt new things about Webpack and secure connections.
+
+
+
+## Day 18: January 20, 2017 
+
+**Today's Progress**: I've found another weather api, but it won't load because of Access-Control-Allow-Origin error.
+
+**Thoughts:** I've learnt some more things about Webpack, APIs and Access Control
