@@ -152,4 +152,12 @@
 
 **Today's Progress**: I've found another weather api, but it won't load because of Access-Control-Allow-Origin error.
 
-**Thoughts:** I've learnt some more things about Webpack, APIs and Access Control
+**Thoughts:** I've learnt some more things about Webpack, APIs and Access Control.
+
+
+
+## Day 19: January 21, 2017 
+
+**Today's Progress**: I've found another weather api, again. It works! Also, I've managed to call flickr api to retrieve photos from flickr search according to current weather.
+
+**Thoughts:** I'm glad that my app finally works! Although images from flickr are not always accurate.
