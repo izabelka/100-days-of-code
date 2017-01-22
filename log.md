@@ -164,7 +164,7 @@
 
 
 
-## Day 19: January 22, 2017 
+## Day 20: January 22, 2017 
 
 **Today's Progress**: I've made call api functions to call each other - it makes the app load faster and smoothly. I've also added a loader that disapperas when the last function (call) is completed.
 
