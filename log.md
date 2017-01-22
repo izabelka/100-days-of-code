@@ -160,4 +160,12 @@
 
 **Today's Progress**: I've found another weather api, again. It works! Also, I've managed to call flickr api to retrieve photos from flickr search according to current weather.
 
-**Thoughts:** I'm glad that my app finally works! Although images from flickr are not always accurate.
+**Thoughts:** I'm glad that my app finally works! Although images from flickr are not always accurate :)
+
+
+
+## Day 19: January 22, 2017 
+
+**Today's Progress**: I've made call api functions to call each other - it makes the app load faster and smoothly. I've also added a loader that disapperas when the last function (call) is completed.
+
+**Thoughts:** I've learnt how to make loaders in react. It's easy! I've also improved the functions that make api calls.
