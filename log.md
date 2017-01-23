@@ -169,3 +169,15 @@
 **Today's Progress**: I've made call api functions to call each other - it makes the app load faster and smoothly. I've also added a loader that disapperas when the last function (call) is completed.
 
 **Thoughts:** I've learnt how to make loaders in react. It's easy! I've also improved the functions that make api calls.
+
+
+
+## Day 21: January 23, 2017 
+
+**Today's Progress**: I've created new repository for Wikipedia Search App. I've added anchor element for opening new tab and displaying random article from Wikipedia.
+
+**Thoughts:** I haven't done much today. I am planning to do a lot tomorrow!
+
+**Link to work:** not available yet
+
+**Link to source:**  [Build a Wikipedia Viewer on freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer)
