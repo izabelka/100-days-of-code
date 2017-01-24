@@ -181,3 +181,11 @@
 **Link to work:** not available yet
 
 **Link to source:**  [Build a Wikipedia Viewer on freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer)
+
+
+
+## Day 22: January 24, 2017 
+
+**Today's Progress**: I've managed to send api call to Wikipedia. It was difficult because of CORS. I've been searching for a solution for half an hour! I found it on Stack Overflow. Then, I've created a form where user can type entry and it sends an api call on submit. It works!
+
+**Thoughts:** I've learnt a lot about CORS and how to set an input value as status in React.
