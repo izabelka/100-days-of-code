@@ -63,7 +63,7 @@
 
 
 
-## Day 7: January 9, 2017 
+## Day 8: January 9, 2017 
 
 **Today's Progress**: I've only managed to toggle radio stations - expand and hide it on click. I'm not feeling well today.
 
@@ -189,3 +189,27 @@
 **Today's Progress**: I've managed to send api call to Wikipedia. It was difficult because of CORS. I've been searching for a solution for half an hour! I found it on Stack Overflow. Then, I've created a form where user can type entry and it sends an api call on submit. It works!
 
 **Thoughts:** I've learnt a lot about CORS and how to set an input value as status in React.
+
+
+
+## Day 23: January 25, 2017 
+
+**Today's Progress**: I've created an array of objects from received call to display.
+
+**Thoughts:** I've loop through an array in old way. I feel like I have to rewrite it one day.
+
+
+
+## Day 24: January 26, 2017 
+
+**Today's Progress**: I've haven't done much. I add some styles 
+
+**Thoughts:** -
+
+
+
+## Day 25: January 28, 2017 
+
+**Today's Progress**: I've added a lot of styles and google font 
+
+**Thoughts:** I've practice CSS, I feel like I have to do it more. I focused on React I forgot about design and style of the app.
