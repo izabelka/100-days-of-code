@@ -170,6 +170,9 @@
 
 **Thoughts:** I've learnt how to make loaders in react. It's easy! I've also improved the functions that make api calls.
 
+**Link to work:** [https://izabelka.github.io/weather-app/](https://izabelka.github.io/weather-app/)
+
+
 
 
 ## Day 21: January 23, 2017 
@@ -202,7 +205,7 @@
 
 ## Day 24: January 26, 2017 
 
-**Today's Progress**: I've haven't done much. I add some styles 
+**Today's Progress**: I've haven't done much. I add some styles.
 
 **Thoughts:** -
 
@@ -212,4 +215,14 @@
 
 **Today's Progress**: I've added a lot of styles and google font 
 
-**Thoughts:** I've practice CSS, I feel like I have to do it more. I focused on React I forgot about design and style of the app.
+**Thoughts:** I've practiced CSS, I feel like I have to do it more. I focused on React I forgot about design and style of the app.
+
+
+
+## Day 26: January 29, 2017 
+
+**Today's Progress**: I've added more styles and published the app on github pages.
+
+**Thoughts:** I've haven't done much. I've only experimented with CSS. I think i am very bad at designing. My pages are white, without colors. Maybe I should experiment more with design.
+
+**Link to work:** [https://izabelka.github.io/wikipedia-search/](https://izabelka.github.io/wikipedia-search/)
