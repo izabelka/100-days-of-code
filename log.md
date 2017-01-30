@@ -226,3 +226,15 @@
 **Thoughts:** I've haven't done much. I've only experimented with CSS. I think i am very bad at designing. My pages are white, without colors. Maybe I should experiment more with design.
 
 **Link to work:** [https://izabelka.github.io/wikipedia-search/](https://izabelka.github.io/wikipedia-search/)
+
+
+
+## Day 27: January 30, 2017 
+
+**Today's Progress**: I've new project: Calculator. I've added one component for displaying numbers when clicking on button.
+
+**Thoughts:** Making calculator seems difficult so far :P
+
+**Link to work:** not available yet
+
+**Link to source:**  [Build a JavaScript Calculator on freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
