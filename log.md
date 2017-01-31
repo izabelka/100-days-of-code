@@ -238,3 +238,11 @@
 **Link to work:** not available yet
 
 **Link to source:**  [Build a JavaScript Calculator on freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+
+
+## Day 28: January 31, 2017 
+
+**Today's Progress**: I've managed to add adding and displaying results properly. However, adding 0 won't working.
+
+**Thoughts:** Forget what said yesterday! Making calculator is fun fun fun! I really enjoy it, especially 'thinking in React'.
