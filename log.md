@@ -243,6 +243,14 @@
 
 ## Day 28: January 31, 2017 
 
-**Today's Progress**: I've managed to add adding and displaying results properly. However, adding 0 won't working.
+**Today's Progress**: I've managed to add adding and displaying results properly. However, adding 0 isn't working.
 
 **Thoughts:** Forget what said yesterday! Making calculator is fun fun fun! I really enjoy it, especially 'thinking in React'.
+
+
+
+## Day 29: February 1, 2017 
+
+**Today's Progress**: I've managed to add subtracting, dividing and multiplying. Adding and other operations on zero work, but it is displayed at the begining of the 'numbers string' when first clicked. I should fix it.
+
+**Thoughts:** I have a lot of repeating code, so I should refactor it. I am still having fun ;)
