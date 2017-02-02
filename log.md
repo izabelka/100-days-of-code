@@ -254,3 +254,11 @@
 **Today's Progress**: I've managed to add subtracting, dividing and multiplying. Adding and other operations on zero work, but it is displayed at the begining of the 'numbers string' when first clicked. I should fix it.
 
 **Thoughts:** I have a lot of repeating code, so I should refactor it. I am still having fun ;)
+
+
+
+## Day 30: February 2, 2017 
+
+**Today's Progress**: I've added some styles and experimented with flexbox.
+
+**Thoughts:** Flexbox is cool and powerful but I am tired today, so I haven't done much.
