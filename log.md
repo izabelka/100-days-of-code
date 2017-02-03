@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-## Day 1: January 2, 2017 
+## Day 1: January 2, 2017
 
 **Today's Progress**: I've just started my [#100DaysOfCode Challenge](https://github.com/izabelka/100-days-of-code). I've initialized a repo with a simple one page React.js application that displays a random quote. I've add Quote Compoment and linked json file. My app now displays a single quote and it's author but I still need to do a button that generates another random quote and so on.
 
@@ -13,7 +13,7 @@
 
 
 
-## Day 2: January 3, 2017 
+## Day 2: January 3, 2017
 
 **Today's Progress**: I've created the change quote button by setting state in React. I've added some styles as well. I had a problem with Github - it didn't count my commits as contributions. It turned out that I didn't set my Github user email as global user email. I've fixed it.
 
@@ -21,7 +21,7 @@
 
 
 
-## Day 3: January 4, 2017 
+## Day 3: January 4, 2017
 
 **Today's Progress**: I've added Twitter share button. It works, but it doesn't show the quote yet, only some example text. Also, I've added a checklist to readme file.
 
@@ -29,7 +29,7 @@
 
 
 
-## Day 4: January 5, 2017 
+## Day 4: January 5, 2017
 
 **Today's Progress**: I've styled buttons. I've been testing twitter sharing but it does not work yet.
 
@@ -37,7 +37,7 @@
 
 
 
-## Day 5: January 6, 2017 
+## Day 5: January 6, 2017
 
 **Today's Progress**: I've set up the app configuration to deploy it on Github Pages.
 
@@ -47,7 +47,7 @@
 
 
 
-## Day 6: January 7, 2017 
+## Day 6: January 7, 2017
 
 **Today's Progress**: I've decided to improve an app I built a while ago. I've started rewriting it to React.js. I've created new component that displays what it should display.
 
@@ -55,7 +55,7 @@
 
 
 
-## Day 7: January 8, 2017 
+## Day 7: January 8, 2017
 
 **Today's Progress**: I've created new component for displaying selected station and its logo. I've change existing components to displaying selected station properly.
 
@@ -63,7 +63,7 @@
 
 
 
-## Day 8: January 9, 2017 
+## Day 8: January 9, 2017
 
 **Today's Progress**: I've only managed to toggle radio stations - expand and hide it on click. I'm not feeling well today.
 
@@ -71,7 +71,7 @@
 
 
 
-## Day 9: January 10, 2017 
+## Day 9: January 10, 2017
 
 **Today's Progress**: I've only done some code refactoring.
 
@@ -79,7 +79,7 @@
 
 
 
-## Day 10: January 11, 2017 
+## Day 10: January 11, 2017
 
 **Today's Progress**: I've figured out how to pass props from childrem to parent and I've passed selected station's url and name. I've deployed app to github pages.
 
@@ -89,7 +89,7 @@
 
 
 
-## Day 11: January 12, 2017 
+## Day 11: January 12, 2017
 
 **Today's Progress**: I've worked on Random Quote Machine today. I've added quote to share in state, it works but it won't apped to twitter share button. I guess it rendes through its own script, one is able to share quote, but only first one.
 
@@ -97,7 +97,7 @@
 
 
 
-## Day 12: January 14, 2017 
+## Day 12: January 14, 2017
 
 **Today's Progress**: I've started another app. I've managed to add API for user's locationd and another API for local weather.
 
@@ -108,7 +108,7 @@
 
 
 
-## Day 13: January 15, 2017 
+## Day 13: January 15, 2017
 
 **Today's Progress**: I've noticed that loaded weather was wrong. The latitude and longitude is not passed to the second api call. I couldn't figure out how to fix it.
 
@@ -116,7 +116,7 @@
 
 
 
-## Day 14: January 16, 2017 
+## Day 14: January 16, 2017
 
 **Today's Progress**: I've come to a temporary solution: to set timeout for the second api call. It's not the best idea but it;s working for now. I've made a function to convert the temperature.
 
@@ -124,7 +124,7 @@
 
 
 
-## Day 15: January 17, 2017 
+## Day 15: January 17, 2017
 
 **Today's Progress**: I've tried to add weather icons. But it didn't work. I change styles directory.
 
@@ -132,7 +132,7 @@
 
 
 
-## Day 16: January 18, 2017 
+## Day 16: January 18, 2017
 
 **Today's Progress**: I've finally added weather icons! And they change dynamically according to the current weather. I've added background pictures as well, in the json file.
 
@@ -140,7 +140,7 @@
 
 
 
-## Day 17: January 19, 2017 
+## Day 17: January 19, 2017
 
 **Today's Progress**: I've added background images as dropbox urls, beacuse of complicated (for me) Webpack require rules. I've deployed my app to github pages. It turns out it doesn't work because of insecure links. I'll fix it tomorrow.
 
@@ -148,7 +148,7 @@
 
 
 
-## Day 18: January 20, 2017 
+## Day 18: January 20, 2017
 
 **Today's Progress**: I've found another weather api, but it won't load because of Access-Control-Allow-Origin error.
 
@@ -156,7 +156,7 @@
 
 
 
-## Day 19: January 21, 2017 
+## Day 19: January 21, 2017
 
 **Today's Progress**: I've found another weather api, again. It works! Also, I've managed to call flickr api to retrieve photos from flickr search according to current weather.
 
@@ -164,7 +164,7 @@
 
 
 
-## Day 20: January 22, 2017 
+## Day 20: January 22, 2017
 
 **Today's Progress**: I've made call api functions to call each other - it makes the app load faster and smoothly. I've also added a loader that disapperas when the last function (call) is completed.
 
@@ -175,7 +175,7 @@
 
 
 
-## Day 21: January 23, 2017 
+## Day 21: January 23, 2017
 
 **Today's Progress**: I've created new repository for Wikipedia Search App. I've added anchor element for opening new tab and displaying random article from Wikipedia.
 
@@ -187,7 +187,7 @@
 
 
 
-## Day 22: January 24, 2017 
+## Day 22: January 24, 2017
 
 **Today's Progress**: I've managed to send api call to Wikipedia. It was difficult because of CORS. I've been searching for a solution for half an hour! I found it on Stack Overflow. Then, I've created a form where user can type entry and it sends an api call on submit. It works!
 
@@ -195,7 +195,7 @@
 
 
 
-## Day 23: January 25, 2017 
+## Day 23: January 25, 2017
 
 **Today's Progress**: I've created an array of objects from received call to display.
 
@@ -203,7 +203,7 @@
 
 
 
-## Day 24: January 26, 2017 
+## Day 24: January 26, 2017
 
 **Today's Progress**: I've haven't done much. I add some styles.
 
@@ -211,15 +211,15 @@
 
 
 
-## Day 25: January 28, 2017 
+## Day 25: January 28, 2017
 
-**Today's Progress**: I've added a lot of styles and google font 
+**Today's Progress**: I've added a lot of styles and google font
 
 **Thoughts:** I've practiced CSS, I feel like I have to do it more. I focused on React I forgot about design and style of the app.
 
 
 
-## Day 26: January 29, 2017 
+## Day 26: January 29, 2017
 
 **Today's Progress**: I've added more styles and published the app on github pages.
 
@@ -229,7 +229,7 @@
 
 
 
-## Day 27: January 30, 2017 
+## Day 27: January 30, 2017
 
 **Today's Progress**: I've new project: Calculator. I've added one component for displaying numbers when clicking on button.
 
@@ -241,7 +241,7 @@
 
 
 
-## Day 28: January 31, 2017 
+## Day 28: January 31, 2017
 
 **Today's Progress**: I've managed to add adding and displaying results properly. However, adding 0 isn't working.
 
@@ -249,7 +249,7 @@
 
 
 
-## Day 29: February 1, 2017 
+## Day 29: February 1, 2017
 
 **Today's Progress**: I've managed to add subtracting, dividing and multiplying. Adding and other operations on zero work, but it is displayed at the begining of the 'numbers string' when first clicked. I should fix it.
 
@@ -257,8 +257,16 @@
 
 
 
-## Day 30: February 2, 2017 
+## Day 30: February 2, 2017
 
 **Today's Progress**: I've added some styles and experimented with flexbox.
 
 **Thoughts:** Flexbox is cool and powerful but I am tired today, so I haven't done much.
+
+
+
+## Day 31: February 3, 2017
+
+**Today's Progress**: I've added more styles and improve flexbox.
+
+**Thoughts:** I forgot about AC button. I don't know where to fit it. I'll figure it out tomorrow.
