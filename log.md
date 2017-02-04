@@ -270,3 +270,11 @@
 **Today's Progress**: I've added more styles and improve flexbox.
 
 **Thoughts:** I forgot about AC button. I don't know where to fit it. I'll figure it out tomorrow.
+
+
+
+## Day 32: February 4, 2017
+
+**Today's Progress**: I've added more styles, colors, AC button and deployed app to github pages.
+
+**Thoughts:** I've added more styles, but app seems to be ugly :P
