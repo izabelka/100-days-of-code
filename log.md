@@ -278,3 +278,33 @@
 **Today's Progress**: I've added more styles, colors, AC button and deployed app to github pages.
 
 **Thoughts:** I've added more styles, but app seems to be ugly :P
+
+
+
+## Day 33: February 5, 2017
+
+**Today's Progress**: Fix flexbox in Safari, publish to github pages.
+
+**Thoughts:** Flexbox is crazy :D
+
+**Link to work:** [https://izabelka.github.io/calculator/](https://izabelka.github.io/calculator/)
+
+
+
+## Day 34: February 6, 2017
+
+**Today's Progress**: I've started new project - Markdown Previewer. I've added [Marked](https://github.com/chjj/marked) -  markdown parser and compiler and create new component to display formatted text, but it's not working yet.
+
+**Thoughts:** It was suspiciously easy to set up and use `marked`.
+
+**Link to work:** not available yet
+
+**Link to source:**  [Build a Markdown Previewer on freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-markdown-previewer)
+
+
+
+## Day 35: February 8, 2017
+
+**Today's Progress**: I've found a solution for marked to work for me. And it works! Also, I've changed input to textaera in the main component.
+
+**Thoughts:** `Marked` was not that easy. I have to use [dangerouslySetInnerHTML](https://facebook.github.io/react/docs/dom-elements.html#dangerouslysetinnerhtml) - a replacement for using `innerHTML`. It was fun, because I have learnt something new.
