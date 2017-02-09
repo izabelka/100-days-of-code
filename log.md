@@ -308,3 +308,13 @@
 **Today's Progress**: I've found a solution for marked to work for me. And it works! Also, I've changed input to textaera in the main component.
 
 **Thoughts:** `Marked` was not that easy. I have to use [dangerouslySetInnerHTML](https://facebook.github.io/react/docs/dom-elements.html#dangerouslysetinnerhtml) - a replacement for using `innerHTML`. It was fun, because I have learnt something new.
+
+
+
+## Day 36: February 9, 2017
+
+**Today's Progress**: I've installed SASS, add styles and example markdown file to show when page is loaded.
+
+**Thoughts:** It was fun! I've finished the app. Although the example markdown file loading and source is not set as I wanted. Maybe I'll fix it.
+
+**Link to work:** [https://izabelka.github.io/markdown-previewer](https://izabelka.github.io/markdown-previewer)
